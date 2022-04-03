@@ -3,7 +3,7 @@
 To build a dynamic webpage using JavaScript, a front-end development language also used for Google search or shopping in Amazon to name a few examples. JavaScript lets us build an interactive webpage that allows to loop through the data, display, build table and customized dashboard. Also, we use html, bootstrap and css and chrome dev tools style that is visually appealing and live.   
 
 Link to UFO Sightings webpage
-The deployed webpage is accessible at file:///C:/Users/esbus/Desktop/Class/UFOs/index.html
+The deployed webpage is accessible at https://github.com/Elsa050464/UFOs/blob/main/index.html
 ## Results
 #### Index page
 This is the initial page. The user can re-initialize the page by clicking on the navbar at the top.
