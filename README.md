@@ -7,7 +7,7 @@ The deployed webpage is accessible at file:///C:/Users/esbus/Desktop/Class/UFOs/
 ## Results
 #### Index page
 This is the initial page. The user can re-initialize the page by clicking on the navbar at the top.
-
+![image](https://user-images.githubusercontent.com/93121665/161442755-8634f917-3661-4861-a55e-a9c179240ab7.png)
 #### Filtering by event date
 The user enters the desired date, the change is detected, and the table is updated accordingly.
 ## Summary 
