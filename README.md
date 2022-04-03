@@ -10,6 +10,7 @@ This is the initial page. The user can re-initialize the page by clicking on the
 ![image](https://user-images.githubusercontent.com/93121665/161442755-8634f917-3661-4861-a55e-a9c179240ab7.png)
 #### Filtering by event date
 The user enters the desired date, the change is detected, and the table is updated accordingly.
+![image](https://user-images.githubusercontent.com/93121665/161442807-ebc3734e-05c4-402c-a803-e9a3207488a2.png)
 ## Summary 
 ### Drawback:  
 1.	There is no indication as to how many fields you need to complete enough to get a single result.  
