@@ -4,9 +4,11 @@ To build a dynamic webpage using JavaScript, a front-end development language al
 
 Link to UFO Sightings webpage
 The deployed webpage is accessible at file:///C:/Users/esbus/Desktop/Class/UFOs/index.html
-Index page
+## Results
+#### Index page
 This is the initial page. The user can re-initialize the page by clicking on the navbar at the top.
-Filtering by event date
+
+#### Filtering by event date
 The user enters the desired date, the change is detected, and the table is updated accordingly.
 ## Summary 
 ### Drawback:  
